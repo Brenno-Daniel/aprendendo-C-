@@ -1,0 +1,3 @@
+[submodule "10-Primeiros passos com .NET + C# - Digital Innovation One/Clone-repo-de-exemplo-do-curso/csharp-examples"]
+	path = "10-Primeiros passos com .NET + C# - Digital Innovation One/Clone-repo-de-exemplo-do-curso/csharp-examples"
+	url = git@github.com:gabrielfbarros/csharp-examples.git
