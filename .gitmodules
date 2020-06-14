@@ -1,3 +1,6 @@
 [submodule "10-Primeiros passos com .NET + C# - Digital Innovation One/Clone-repo-de-exemplo-do-curso/csharp-examples"]
 	path = "10-Primeiros passos com .NET + C# - Digital Innovation One/Clone-repo-de-exemplo-do-curso/csharp-examples"
 	url = git@github.com:gabrielfbarros/csharp-examples.git
+[submodule "11-Testando-aplicacoes_dotNET_Core/aspnetcore-tests"]
+	path = 11-Testando-aplicacoes_dotNET_Core/aspnetcore-tests
+	url = git@github.com:gabrielfbarros/aspnetcore-tests.git
